@@ -1,4 +1,4 @@
-# Hello-world-
+# Hello-world
 first repository
 
-I'm loving python so far
+I'm loving Python so far
